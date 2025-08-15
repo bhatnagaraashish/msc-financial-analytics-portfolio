@@ -1,0 +1,25 @@
+# Machine Learning for Customer Churn Prediction
+
+## 📅 Dates
+- Project completed: June 2024
+- Uploaded to GitHub: August 2025
+
+## 📜 Description
+Built a machine learning model to predict customer churn using classification algorithms and customer demographic & transactional data.
+
+## 📊 Key Steps
+1. Data preprocessing and feature engineering
+2. Exploratory data analysis (EDA)
+3. Model training with Logistic Regression, Random Forest
+4. Model evaluation with accuracy, precision, recall, F1-score
+5. Final model deployment-ready notebook
+
+## 📂 Files
+- `Customer_Churn_Prediction.ipynb` — Jupyter notebook with full workflow
+- `customer_data.csv` — Dataset used (if permissible)
+
+## 🛠 Tools & Libraries
+Python, Pandas, Matplotlib, Scikit-learn, Seaborn
+
+## 📌 Notes
+This project was completed during MSc coursework for **Machine Learning for Business** module.
