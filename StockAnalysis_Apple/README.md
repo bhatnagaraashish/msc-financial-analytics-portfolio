@@ -1,29 +1,25 @@
-# Stock Analysis - Apple Inc. (AAPL)
+# Stock Analysis — Apple
 
-## 📌 Overview
-This project analyzes historical stock price data for Apple Inc. (AAPL) over a 5-year period using Python.  
-The analysis includes exploratory data analysis (EDA), trend visualization, and predictive modeling with various regression techniques.
+## 📅 Dates
+- Project completed: April 2024
+- Uploaded to GitHub: August 2025
 
-## 📂 Dataset
-- **Source:** Yahoo Finance API (`yfinance`)
-- **Period:** 2019-06-03 to 2024-06-07
-- **Features:** Open, High, Low, Close, Adj Close, Volume
+## 📜 Description
+Analyzed historical stock data of Apple Inc. using Python (Pandas, Matplotlib, Seaborn) to study price trends, moving averages, and volatility.
 
-## 🛠️ Tools & Libraries
-- pandas, numpy, matplotlib, seaborn
-- scikit-learn (LinearRegression, DecisionTreeRegressor, RandomForestRegressor, SVR)
-- yfinance for stock data download
+## 📊 Key Steps
+1. Data collection via Yahoo Finance API
+2. Cleaning and preprocessing
+3. Visualization of price trends
+4. Moving average and volatility analysis
+5. Summary insights
 
-## 📊 Methods
-1. Data download and preprocessing
-2. Descriptive statistics and EDA
-3. Correlation heatmap
-4. Model training & evaluation with MSE, RMSE, and R² metrics
+## 📂 Files
+- `Apple_Stock_Analysis.ipynb` — Jupyter notebook with full analysis
+- `apple_stock_data.csv` — Dataset used (if permissible)
 
-## 📈 Results
-- Identified key trends in AAPL price movements
-- Compared model performance for predicting closing prices
-- RandomForestRegressor achieved the best R² score
+## 🛠 Tools & Libraries
+Python, Pandas, Matplotlib, Seaborn, yfinance
 
-## 🎓 Academic Note
-Developed as part of MSc Financial Analytics coursework, later uploaded to GitHub for portfolio purposes.
+## 📌 Notes
+This project was completed during MSc coursework for **Financial Data Analysis** module.
